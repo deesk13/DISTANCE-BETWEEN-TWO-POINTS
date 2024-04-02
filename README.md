@@ -3,7 +3,7 @@ NAME : DEVA DHARSHINI I
 
 REGISTER NUMBER : 212223240026
 
-DEPT : AIML
+DEPARTMENT : AIML
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
